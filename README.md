@@ -1,2 +1,0 @@
-# uaiim.github.io
-Web
