@@ -38,7 +38,10 @@
 - [mathwa](https://www.mathway.com/id/Precalculus)
 - [heliohost](https://heliohost.org/dashboard/)
 - [youtube subacribe embed](https://developers-dot-devsite-v2-prod.appspot.com/youtube/youtube_subscribe_button_a851e9bcf736938376226ea921ef415bdfc58c9e998a3e69dbcd7ffa7f33d0dd.frame)
-- [hero icon](https://heroicons.com/)
-- [fosfor icon](https://phosphoricons.com/?ref=onepagelove)
 - [thumbnail to fullscreen transition](https://codepen.io/ste-vg/pen/NrLWMj)
-- [portfolio template](https://david-hckh.com/)
+
+## template reference
+- https://jesse-zhou.com/
+- https://david-hckh.com/
+- https://phosphoricons.com/
+- https://heroicons.com/
