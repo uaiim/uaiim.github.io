@@ -5,7 +5,7 @@
     - https://jscompress.com/
     - https://closure-compiler.appspot.com/home
     - https://www.digitalocean.com/community/tools/minify
-    -
+    - https://obfuscator.io/
 - app inventor
     - https://www.kodular.io
     - https://appzard.com
