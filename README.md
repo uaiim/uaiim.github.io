@@ -41,6 +41,7 @@
 - [thumbnail to fullscreen transition](https://codepen.io/ste-vg/pen/NrLWMj)
 
 ## template reference
+- http://www.overthetinyhills.com/
 - https://jesse-zhou.com/
 - https://david-hckh.com/
 - https://threejs.org/
