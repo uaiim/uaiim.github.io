@@ -43,5 +43,6 @@
 ## template reference
 - https://jesse-zhou.com/
 - https://david-hckh.com/
+- https://threejs.org/
 - https://phosphoricons.com/
 - https://heroicons.com/
