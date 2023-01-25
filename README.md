@@ -12,7 +12,7 @@
     - https://androidbuilder.in
     - https://niotron.com
     - https://appinventor.mit.edu
-    - > setup on windows https://appinventor.mit.edu/explore/ai2/windows or https://appinventor.mit.edu/explore/ai2/update-setup-software
+    - > **setup on windows** https://appinventor.mit.edu/explore/ai2/windows **/** https://appinventor.mit.edu/explore/ai2/update-setup-software
 - apk decompiler
     - https://www.decompiler.com/
     - http://www.javadecompilers.com/apk
